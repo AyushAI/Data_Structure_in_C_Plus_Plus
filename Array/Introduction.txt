@@ -1,0 +1,6 @@
+In C++ an array is a collection of elements of the same data type placed in the contaguous memory location.
+
+- creation
+- input
+- output
+- update
